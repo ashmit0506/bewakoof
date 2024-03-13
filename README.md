@@ -1,13 +1,5 @@
 # Bewakoof_website
-Our Creditable Members and Their Contributions-
-1. Haris - Login and sign up
-2. Shabaz- Navbar
-3. Ninad - Landing home page & Footer
-4. Sukanta-Product page
-5. Deepak -Display page and cart
-6. Sahnawaz-Payment Gateway
 
-Our Story-
 Our story starts with the name
 Bewakoof.
 
@@ -38,7 +30,7 @@ Founded in 2012, Bewakoof is a lifestyle fashion brand that makes creative and t
 
 Bewakoof is hands down amazing when it comes to creating light-hearted, fun, and quirky everyday outfits and other products (like mobile covers). Bewakoof quotes are some of the most intriguing things that the company offers along with its merchandise. Furthermore, the Bewakoof shirts and t shirts and other Bewakoof.com products are available at pocket-friendly prices. Moreover, its unique name is enough to turn heads.
 
-Bewakoof.com, which sells apparel and mobile phone covers, is better known for creating head-turning catalogs like its ‘Ghanta’ collection of t-shirts for college students with messages like ‘Ghanta Engineering/Ghanta MBA’; the collection was a big hit and was tagged as 'best-seller' by the company. Bewakoof primarily caters to the age group of 16-34 years.
+
 
 ![Screenshot (525)](https://user-images.githubusercontent.com/101390725/191264154-7c99b1d0-f5c2-496c-bb80-bb2b569a18ee.png)
 
